@@ -1,6 +1,6 @@
 ### Hello there!  I'm Stephen Perry.
 
-I'm a student at Codeup studying Data Science.  I'll be learning Python, SQL and other tools and how to use them in the data science pipeline.  I'll also learn how to apply concepts and formulas in statistics to analyze data sets and deduce valuable information to aid stakeholders in making critical business decisions.
+As a Data Scientist, I specialize in extracting valuable insights from complex data sets and providing data-driven solutions to businesses and organizations. My expertise includes data wrangling, machine learning, data visualization, and statistical analysis.
 
 <!--
 **stephen-c-perry/stephen-c-perry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
