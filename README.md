@@ -2,7 +2,6 @@
 
 As a Data Scientist, I specialize in extracting valuable insights from complex datasets and providing data-driven solutions to businesses and organizations. My expertise includes data wrangling, machine learning, data visualization, and statistical analysis.
 
-<!--
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stephen-c-perry) 
@@ -16,5 +15,3 @@ As a Data Scientist, I specialize in extracting valuable insights from complex d
 
 ---
 [![](https://visitcount.itsvg.in/api?id=stephen-c-perry&icon=0&color=0)](https://visitcount.itsvg.in)
-
--->
