@@ -1,6 +1,6 @@
 ### Hello there!  I'm Stephen Perry.
 
-As a Data Scientist, I specialize in extracting valuable insights from complex datasets and providing data-driven solutions to businesses and organizations. My expertise includes data wrangling, machine learning, data visualization, and statistical analysis.
+Hiring Our Hero Fellow at CGI | Full Stack Web Development | Data Science
 
 
 ## 🌐Socials
